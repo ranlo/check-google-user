@@ -1,6 +1,6 @@
 Usage
 
-The script supports reading from command line or from stdin
+The script accepts input from either the command line or stdin
 
 `python3 ./calcheck.py email1 email2 ... emailn`
 
